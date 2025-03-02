@@ -2,7 +2,7 @@
 
 LeetCode AI Buddy is a Chrome extension designed to assist students in solving LeetCode problems by providing intelligent hints. It leverages the GeminiAI API to analyze the user's code and suggest the next logical step, making the problem-solving process more efficient.
 
-![Description](images/example.png)
+![Description](images/demo.png)
 
 ## Features
 - ✅ **Real-time Hints**: Get AI-generated hints while solving LeetCode problems.
